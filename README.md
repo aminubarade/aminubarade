@@ -9,7 +9,5 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminubarade&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="Aminu-Barade's Top Languages" style="height: 187px; width: auto; margin-right: 10px;" />
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=AminuBarade&theme=dark)](https://git.io/streak-stats)
   
 </div>
